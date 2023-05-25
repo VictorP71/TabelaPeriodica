@@ -1,0 +1,39 @@
+.pink{
+    background-color: hotpink;
+}
+.borda{
+   border-style: solid;
+    border-color: black;
+    width: 95px;
+    height: 95px;
+}
+.green{
+    background-color: chartreuse;
+}
+.orange{
+    background-color: rgb(255, 106, 0);
+}
+.yellow{
+    background-color: rgb(255, 255, 0);
+}
+.churchman{
+    background-color: #2B78D9;
+}
+.pool{
+    background-color: #97E6F0;
+}
+.turquoise{
+    background-color: #1ECDB3;
+}
+.lavander{
+    background-color: #74ACE8;
+}
+.emerald{
+    background-color: #39C9CC;
+}
+.crocus{
+    background-color: #BA83FF;
+}
+#tabela_periodica{
+    text-align: center;
+}
